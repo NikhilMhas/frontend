@@ -1,1 +1,1 @@
-export const API_URL = "http://localhost:3000"; // Backend base URL
+export const API_URL = "https://crud-backend-2-56wg.onrender.com"; // Backend base URL
